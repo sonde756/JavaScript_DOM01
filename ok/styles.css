@@ -1,0 +1,14 @@
+body{
+  background: lightgray;
+}
+
+h1{
+  color: blue;
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+h2{
+  color: rebeccapurple;
+  text-align: center;
+}
